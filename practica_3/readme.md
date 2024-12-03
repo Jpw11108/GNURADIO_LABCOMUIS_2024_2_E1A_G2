@@ -1,6 +1,6 @@
 esta practica se dibide en dos partes :
 
-parte A:
+#                                                                          parte A
 Este proyecto analiza la modulación de amplitud (AM) en tres casos:
 
 # Análisis de Modulación de Amplitud
