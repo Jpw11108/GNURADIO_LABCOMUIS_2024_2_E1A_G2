@@ -14,7 +14,7 @@ Este proyecto realizó un análisis de la modulación de amplitud (AM) en tres c
    N_{dB} = 20 \log_{10} \left(\frac{k_a A_m}{2}\right)
    \]
 
-## Actividad Realizada
+## Actividad Realizadas
 
 Para cada caso, se completó una tabla con los siguientes datos:
 
@@ -26,7 +26,8 @@ Para cada caso, se completó una tabla con los siguientes datos:
 - Relación señal a ruido medida
  
 
-insiso 2 de la parte  A Se consideraron los siguientes casos de modulación AM, donde \( N \) es el último dígito del código de estudiante:
+insiso 2 de la parte  A:
+Se consideraron los siguientes casos de modulación AM, donde \( N \) es el último dígito del código de estudiante:
 1. \( k_a A_m = 1 \)
 2. \( k_a A_m = 1 + 0.1 \cdot N \)
 3. \( k_a A_m = 1 - 0.1 \cdot N \)
@@ -58,21 +59,12 @@ En esta parte del proyecto, se realizarán mediciones del tiempo de bit y el ín
    - Ganancia de TX: 20 dB  
    - 2 muestras por símbolo  
 
-## Actividades a Realizar
+## Actividades a realizadas 
 
 1. **Medición del Tiempo de Bit**: Utilizar el osciloscopio para medir el tiempo de bit de cada señal modulada.
 2. **Verificación del Índice de Modulación**: Verificar el índice de modulación absoluto de cada señal generada.
 3. **Estimación del Ancho de Banda**: Usar el analizador de espectro para estimar el ancho de banda de la señal medida.
 
-## Instrucciones
-
-- **No olvide realizar un análisis profundo** de cada caso. Asegúrese de incluir comentarios detallados sobre los resultados obtenidos.
-- Adjuntar **imágenes del osciloscopio** y el **analizador de espectro** para cada uno de los casos estudiados.
-- **Sin comentarios**, una imagen no tiene validez para los análisis.
-
-## Pregunta 1
-
-Para cada caso, complete una descripción detallada de las mediciones y análisis realizados. Responda la pregunta en base a las observaciones y resultados obtenidos durante la práctica.
 
 
 
