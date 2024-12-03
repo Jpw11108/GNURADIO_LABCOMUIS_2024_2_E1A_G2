@@ -3,7 +3,7 @@ esta practica se dibide en dos partes :
 #                                                                          parte A
 Este proyecto analiza la modulación de amplitud (AM) en tres casos:
 
-# Análisis de Modulación de Amplitud
+# Análisis de Modulación de Amplitud https://github.com/Jpw11108/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/main/practica_3/parte_A
 
 Este proyecto realizo un análisis de la modulación de amplitud (AM) en tres casos:
 
