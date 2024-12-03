@@ -3,7 +3,7 @@ esta practica se dibide en dos partes :
 #                                                                          parte A
 Este proyecto analiza la modulación de amplitud (AM) en tres casos:
 
-# Análisis de Modulación de Amplitud https://github.com/Jpw11108/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/main/practica_3/parte_A
+# Análisis de Modulación de Amplitud 
 
 Este proyecto realizo un análisis de la modulación de amplitud (AM) en tres casos:
 
@@ -19,7 +19,7 @@ Este proyecto realizo un análisis de la modulación de amplitud (AM) en tres ca
    N_{dB} = 20 \log_{10} \left(\frac{k_a A_m}{2}\right)
    \]
 
-## Actividad
+## Actividad realziada 
 
 Para cada caso, se completo la tabla con los datos de : 
 - Potencia de la señal portadora
@@ -28,3 +28,6 @@ Para cada caso, se completo la tabla con los datos de :
 - Índice de modulación
 - Frecuencia del mensaje
 - Relación señal a ruido medida
+
+#                                                                          parte B
+
