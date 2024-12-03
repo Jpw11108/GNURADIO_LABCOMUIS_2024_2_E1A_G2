@@ -5,7 +5,7 @@ Este proyecto analiza la modulación de amplitud (AM) en tres casos:
 
 # Análisis de Modulación de Amplitud
 
-Este proyecto realiza un análisis de la modulación de amplitud (AM) en tres casos:
+Este proyecto realizo un análisis de la modulación de amplitud (AM) en tres casos:
 
 - \( k_a A_m = 1 \)
 - \( k_a A_m > 1 \)
@@ -21,19 +21,10 @@ Este proyecto realiza un análisis de la modulación de amplitud (AM) en tres ca
 
 ## Actividad
 
-Para cada caso, completar la siguiente tabla:
-
+Para cada caso, se completo la tabla con los datos de : 
 - Potencia de la señal portadora
 - Potencia de la banda lateral superior
 - Potencia de la banda lateral inferior
 - Índice de modulación
 - Frecuencia del mensaje
 - Relación señal a ruido medida
-
-Incluir una imagen del analizador de espectro para cada caso.
-
-## Requisitos
-
-- GNU Radio
-- Osciloscopio
-- Analizador de espectro
