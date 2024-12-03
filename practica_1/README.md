@@ -4,4 +4,4 @@ esta practica se divide en dos partes
 
 Parte A: la cual consiste en 6 punto
 
-Parte B: 
+Parte B: se realizo la caracterizacion de un cable calculando su potencia y su comportamiento en frecuencia 
