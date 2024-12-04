@@ -10,9 +10,7 @@ en esta practica se realizó un análisis de la modulación de amplitud (AM) en 
 
 1. **Medir la potencia de la señal \( s(t) \)** con el analizador de espectro.
 2. **Calcular el índice de modulación** \( k_a A_m \) usando la fórmula:
-   \[
-   N_{dB} = 20 \log_{10} \left(\frac{k_a A_m}{2}\right)
-   \]
+   \[N_{dB} = 20 \log_{10} \left(\frac{k_a A_m}{2}\right \]
 
 
 Para cada caso, se completó una tabla con los siguientes datos:
