@@ -15,3 +15,5 @@ Con base en el **Plan Técnico de Radiodifusión Sonora para FM**, se verificó 
 ### Medición de Ancho de Banda
 Utilizando un **analizador de espectro**, se midió el ancho de banda de las emisoras en pasabanda. Las mediciones se realizaron en un rango adecuado y se registraron los valores correspondientes con los resultados obtenidos mediante el **analizador de espectro** fueron comparados con los datos de ancho de banda calculados en **GNU Radio**. 
 
+## conclusiones:
+Se observó que algunas emisoras no cumplen con el ancho de banda reglamentario y utilizan más del permitido. Como resultado, en ciertas áreas del espectro, las emisoras causan interferencias entre sí.
