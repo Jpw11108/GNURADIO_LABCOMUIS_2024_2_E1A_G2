@@ -1,6 +1,6 @@
 # Parte A: Análisis de Modulación de Amplitud
 
-Este proyecto realizó un análisis de la modulación de amplitud (AM) en tres casos:
+en esta practica se realizó un análisis de la modulación de amplitud (AM) en tres casos:
 
 - \( k_a A_m = 1 \)
 - \( k_a A_m > 1 \)
@@ -37,7 +37,7 @@ Se consideraron los siguientes casos de modulación AM, donde \( N \) es el últ
 
 # Parte B: Medición del Índice de Modulación y Análisis de Banda Ancha
 
-En esta parte del proyecto, se realizarán mediciones del tiempo de bit y el índice de modulación absoluto en tres casos de señales moduladas. Además, se estimará el ancho de banda de cada señal medida.
+En esta etapa, se realizarán mediciones del tiempo de bit y el índice de modulación absoluto en tres casos de señales moduladas. Además, se estimará el ancho de banda de cada señal medida.
 
 ## Casos a Medir
 
