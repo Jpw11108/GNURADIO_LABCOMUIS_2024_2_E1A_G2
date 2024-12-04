@@ -53,6 +53,7 @@ En esta etapa, se realizarán mediciones del tiempo de bit y el índice de modul
    - Ganancia de TX: 20 dB  
    - 2 muestras por símbolo  
 
+## conclusion 
 
 
 
