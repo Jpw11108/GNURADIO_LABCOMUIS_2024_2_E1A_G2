@@ -15,5 +15,8 @@ Con base en el **Plan Técnico de Radiodifusión Sonora para FM**, se verificó 
 ### Medición de Ancho de Banda
 Utilizando un **analizador de espectro**, se midió el ancho de banda de las emisoras en pasabanda. Las mediciones se realizaron en un rango adecuado y se registraron los valores correspondientes con los resultados obtenidos mediante el **analizador de espectro** fueron comparados con los datos de ancho de banda calculados en **GNU Radio**. 
 
-## conclusiones:
+Se observó algo curioso que se mencionaba en la teoría al modificar el factor KapAm. Al hacerlo, la señal mantenía una amplitud constante, pero presentaba un comportamiento similar al de un acordeón. Esto se debía a que al modificar el KapAm , la frecuencia de la señal variaba, lo que generaba esa sensación visual. como se ve en la imagen
+![señal variando el kpAm](https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/blob/practica_4/practica_4/SCR03.PNG)
+
+## conclusion:
 Se observó que algunas emisoras no cumplen con el ancho de banda reglamentario y utilizan más del permitido. Como resultado, en ciertas áreas del espectro, las emisoras causan interferencias entre sí.
