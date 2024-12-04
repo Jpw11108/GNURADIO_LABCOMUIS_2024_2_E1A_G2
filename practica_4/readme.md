@@ -10,8 +10,5 @@ Con base en el **Plan Técnico de Radiodifusión Sonora para FM**, se verificó 
 ## Inciso B: Análisis del Ancho de Banda en Pasabanda
 
 ### 1. Medición de Ancho de Banda
-Utilizando un **analizador de espectro**, se midió el ancho de banda de las emisoras en pasabanda. Las mediciones se realizaron en un rango adecuado y se registraron los valores correspondientes.
-
-### 2. Comparación de Resultados
-Los resultados obtenidos mediante el **analizador de espectro** fueron comparados con los datos de ancho de banda calculados en **GNU Radio**. 
+Utilizando un **analizador de espectro**, se midió el ancho de banda de las emisoras en pasabanda. Las mediciones se realizaron en un rango adecuado y se registraron los valores correspondientes con los resultados obtenidos mediante el **analizador de espectro** fueron comparados con los datos de ancho de banda calculados en **GNU Radio**. 
 
