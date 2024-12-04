@@ -1,8 +1,6 @@
 La **Práctica 2** se divide en dos secciones
 ### Sección A: Análisis de señales sin ruido
 
-#### Objetivo
-
 Generar diferentes tipos de señales usando el software **GNU Radio** y estudiar su comportamiento en términos de amplitud y espectro de frecuencias. También se aplicó un filtro para controlar el ruido introducido en las señales y analizar su espectro para determinar el ancho de banda.
 
 #### Procedimiento
