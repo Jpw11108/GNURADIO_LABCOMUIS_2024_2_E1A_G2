@@ -14,7 +14,6 @@ Este proyecto realizó un análisis de la modulación de amplitud (AM) en tres c
    N_{dB} = 20 \log_{10} \left(\frac{k_a A_m}{2}\right)
    \]
 
-## Actividad Realizadas
 
 Para cada caso, se completó una tabla con los siguientes datos:
 
@@ -31,8 +30,6 @@ Se consideraron los siguientes casos de modulación AM, donde \( N \) es el últ
 1. \( k_a A_m = 1 \)
 2. \( k_a A_m = 1 + 0.1 \cdot N \)
 3. \( k_a A_m = 1 - 0.1 \cdot N \)
-
-## Actividades Realizadas
 
 1. Se observó la señal envolvente compleja \( g(t) \) utilizando el bloque **QT GUI Time Sink**.
 2. Se midieron las amplitudes de la señal \( s(t) \) con el osciloscopio.
@@ -58,12 +55,6 @@ En esta parte del proyecto, se realizarán mediciones del tiempo de bit y el ín
    - Frecuencia de portadora: 350 MHz  
    - Ganancia de TX: 20 dB  
    - 2 muestras por símbolo  
-
-## Actividades a realizadas 
-
-1. **Medición del Tiempo de Bit**: Utilizar el osciloscopio para medir el tiempo de bit de cada señal modulada.
-2. **Verificación del Índice de Modulación**: Verificar el índice de modulación absoluto de cada señal generada.
-3. **Estimación del Ancho de Banda**: Usar el analizador de espectro para estimar el ancho de banda de la señal medida.
 
 
 
