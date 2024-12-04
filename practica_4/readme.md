@@ -1,11 +1,8 @@
 # Análisis de Emisoras FM
 
-Este informe describe el análisis de emisoras FM realizado utilizando **GNU Radio** y un **analizador de espectro**. 
 ## Inciso A: Análisis de Emisoras
 
 Se realizó un listado de las emisoras recibidas en el equipo, registrando la información contenida en la señal banda base demodulada. 
-
-
 
 Con base en el **Plan Técnico de Radiodifusión Sonora para FM**, se verificó si alguna emisora no cumplía con el ancho de banda permitido para su categoría. Para esto, se compararon los valores obtenidos con los estándares establecidos. En algunos casos, se identificaron emisoras cuya modulación se encontraba fuera de los límites del ancho de banda permitido.
 
