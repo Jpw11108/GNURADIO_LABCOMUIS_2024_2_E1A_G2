@@ -9,7 +9,7 @@ El laboratorio está dividido en **cuatro sesiones**, cada una organizada en **d
 - **Tablas de Excel** con los resultados obtenidos.
 - **Cálculos manuales** relacionados con los experimentos.
 - **Imágenes** capturadas de las herramientas de medición, como **analizadores de espectro**, **osciloscopios**
-## Carpeta de Cada Sesión
+## Carpeta de Cada practica
 Cada practica está organizada de la siguiente manera:
 1. **Descripción de la sesión**: Explicación de las actividades realizadas.
 2. **Evidencias**: Archivos que incluyen los datos, gráficos y cálculos generados durante la sesión.
